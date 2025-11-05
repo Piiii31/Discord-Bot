@@ -1,0 +1,1 @@
+The **Discord Bot** project utilizes the Discord API to automate tasks, respond to user commands, and manage server activities. It can be customized to add new commands and features based on the server's needs.

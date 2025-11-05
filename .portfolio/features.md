@@ -1,0 +1,4 @@
+- **Command Handling**: Responds to user commands efficiently.
+- **Moderation Tools**: Features to manage server moderation (e.g., kick, ban).
+- **Custom Commands**: Ability to create and manage custom commands.
+- **Fun Commands**: Commands for entertainment (e.g., jokes, trivia).
